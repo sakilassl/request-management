@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
@@ -64,3 +65,25 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+=======
+# Request Management System
+
+This is a Laravel-based Request Management System.
+
+## Features
+- CRUD operations for requests
+- Real-time updates
+- Integration with MySQL
+
+## Installation
+1. Clone the repository: `git clone https://github.com/sakilassl/request-management.git`
+2. Navigate to the project directory: `cd request-management`
+3. Install dependencies: `composer install`
+4. Copy `.env.example` to `.env` and configure your environment settings.
+5. Generate an application key: `php artisan key:generate`
+6. Run migrations: `php artisan migrate`
+7. Serve the application: `php artisan serve`
+
+## Usage
+- Use the provided API endpoints to manage requests.
+>>>>>>> ed24b1a4d05b78fee2496f11f5119e2032d0ee44
