@@ -1,0 +1,15 @@
+*.sqlite*
+/node_modules
+/vendor
+/.env
+/storage/*.key
+/public/storage
+/public/hot
+/public/storage
+/public/hot
+/storage/*.key
+/vendor
+/.idea
+/.vscode
+.DS_Store
+Thumbs.db
